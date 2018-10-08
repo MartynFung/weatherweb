@@ -1,4 +1,4 @@
-# Weather Api
+# Weather Web - React App
 This is the React App built for use with the weatherapi solution.
 
 # Setup

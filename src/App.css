@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 10rem;
 }
 
 .App-logo {
@@ -30,3 +31,26 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #181c1d;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+}
+
+.box {
+  width: 100%;
+  height: 4px;
+  background-color: cyan;
+  background-image: -webkit-linear-gradient(left, cyan 0%, magenta 100%), -webkit-linear-gradient(left, cyan 0%, magenta 100%);
+  background-image: -moz-linear-gradient(left, cyan 0%, magenta 100%), -moz-linear-gradient(left, cyan 0%, magenta 100%);
+  background-image: -o-linear-gradient(left, cyan 0%, magenta 100%), -o-linear-gradient(left, cyan 0%, magenta 100%);
+  background-image: linear-gradient(to right, cyan 0%, magenta 100%), linear-gradient(to right, cyan 0%, magenta 100%);
+}
+

@@ -7,7 +7,7 @@ This is the React App built for use with the weatherapi solution.
 Enter in the key under WeatherApiCore > Controllers > WeatherController.cs at "string apiKey = _____"
 - Clone the weatherapi: https://github.com/MartynFung/weatherapi
 - Open weatherapi with Visual studio 2017 > run with IIS Express
-- Open weatherweb with VSCode > open console using CTRL+`
+- Open weatherweb with VSCode > open console using CTRL+` > npm start
 ```
 npm start
 ```
